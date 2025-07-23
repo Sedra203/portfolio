@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Sedra203/portfolio",
+  "homepage": "https://sedra203.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
